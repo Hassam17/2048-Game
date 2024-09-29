@@ -24,7 +24,11 @@ Future Enhancements:
 -Include theme customization options for tiles and backgrounds.
 
 ScreenShots
+
+
 ![image](https://github.com/user-attachments/assets/ccf057d8-8bb5-481f-84d4-363c25b64d7d)
+
+
 ![image](https://github.com/user-attachments/assets/cd041e50-e695-470f-bcf8-f28437704ac7)
 
 
